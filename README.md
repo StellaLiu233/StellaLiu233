@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StellaLiu233
 - 👀 I’m interested in getting As :"(
-- 🌱 I’m currently learning computer science principles html 
+- 🌱 I’m currently learning computer science principles  
 - 💞️ I’m looking to collaborate on CSP Web Project 
 - 📫 How to reach me *sstella@gmail.com 
 
