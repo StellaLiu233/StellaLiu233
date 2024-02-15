@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @StellaLiu233
-- 👀 I’m interested in getting As :"(
-- 🌱 I’m currently learning computer science principles  
-- 💞️ I’m looking to collaborate on CSP Web Project 
+- 👋 Hi, I’m Stella Liu
+- 👀 I’m interested in Statistics and Economics
+- 🌱 I’m currently learning Python and R-language 
+- 💞️ I’m looking to discuss related topics
 - 📫 How to reach me *sstella@gmail.com 
 
 <!---
