@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Stella Liu
-- 👀 I’m interested in Statistics and Economics
-- 🌱 I’m currently learning Python and R-language 
-- 💞️ I’m looking to discuss related topics
-- 📫 How to reach me *sstella@gmail.com 
+- Hi, I’m Stella Liu
+- I’m a undergrad majoring in Statistics and Economics
+- I’m currently advancing in R-programming and Python
+- I’m looking to discuss related topics and work on team projects
 
 <!---
 StellaLiu233/StellaLiu233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
